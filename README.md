@@ -8,7 +8,7 @@
 
 - Created - 2023-07-07
 
-- Technologies Used - Html5 , css2 
+- Technologies Used - Html5 , css 
 
 - Role - Frontend
 
